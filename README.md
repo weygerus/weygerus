@@ -1,5 +1,5 @@
  ## Opa, Bem vindo!!
- ### Só não repara na bagunça, vou passar um café pra gente ☕
+ ### Só não repara a bagunça, vou passar um café pra gente ☕
  
 <br>
 
