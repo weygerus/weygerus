@@ -26,15 +26,15 @@
   <br>
   
 <div align="center">
-  <a href="https://instagram.com/franqin" target="_blank">
+  <a href="https://instagram.com/franqin_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   
- <a href="https://discord.gg/G9GPg5SA75" target="_blank">
+ <a href="https://discord.gg/#8409" target="_blank">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
  </a>
   
-  <a href = "mailto:gabrielfranco@uni9.edu.br">
+  <a href = "mailto:gabrielfranco@uni9.edu.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
