@@ -1,5 +1,5 @@
 ## Opa, Bem vindo!! 👋
-### Não repara a bagunça, vou passar um café
+### Só não repara a bagunça, vou passar um café pra gente 
 
 <!--
 **weygerus/weygerus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
